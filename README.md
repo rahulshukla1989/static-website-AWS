@@ -1,2 +1,2 @@
 # udacity-projects
-This Repository contains all the projects of Udacity Devops nano degree program
+This repository contains necessary files the step by step instruction of deploying static website on AWS
